@@ -11,3 +11,8 @@ that  in the prevoius program(recognition.py) that the user captures the image w
 
 3.detector.py contains the python code which explains-------------------------------------------
 that after train the model detect the images tht the user captures.
+
+
+So first run the recognition.py
+after that run the Training.py
+and last run the detector.py
